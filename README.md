@@ -8,7 +8,7 @@ Analysis of scRNA-seq data from WT, Fezf2 cKO and Aire KO mouse thymi (GSE226493
   - **scRNAseq** - main analysis pipeline of new WT/Aire KO/Fezf2 KO datasets
   - **scRNAseq-individual_genotypes** - reproducing major results processing genotypes individually instead of integrating and analyzing them simultaneously
   - **WT_myeloid_stromal_scRNAseq** - analysis of WT thymic myeloid and stromal scRNA-seq datasets
-- **analysis/** contains processed data files and figure pdfs
+- **analysis/** contains processed data files and figures (pdfs excluded from repo because of file sizes)
 - **logs/** contains logging information for kallisto alignment
 - **requirements.txt** contains the package version information used for this project
 - **Fezf2_microarray_DE_genes.csv** contains Fezf2 WT vs Fezf2 KO DE genes identified by Takaba, et al. Cell (2015) doi: https://doi.org/10.1016/j.cell.2015.10.013
