@@ -1,0 +1,23 @@
+producer_class	xtools.gsea.GseaPreranked
+producer_timestamp	1724207654433
+param	rpt_label	basal_lung_hallmark
+param	rnd_seed	149
+param	set_min	15
+param	zip_report	false
+param	create_svgs	true
+param	scoring_scheme	weighted
+param	rnk	/Users/joegermino/Downloads/basal_lung_z_scores.rnk
+param	norm	meandiv
+param	out	/Users/joegermino/gsea_home/output/aug20
+param	mode	Abs_max_of_probes
+param	include_only_symbols	true
+param	help	false
+param	set_max	500
+param	gmx	ftp.broadinstitute.org://pub/gsea/msigdb/mouse/gene_sets/mh.all.v2024.1.Mm.symbols.gmt
+param	make_sets	true
+param	plot_top_x	20
+param	gui	false
+param	nperm	1000
+param	collapse	No_Collapse
+
+file	/Users/joegermino/gsea_home/output/aug20/basal_lung_hallmark.GseaPreranked.1724207654433/index.html

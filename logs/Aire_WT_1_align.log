@@ -1,0 +1,18 @@
+[2023-11-14 00:41:37,210]    INFO [count] Using index /mnt/iacchus/joe/reference_genomes/kallisto/mus_musculus/transcriptome.idx to generate BUS file to /mnt/iacchus/joe/raw_data/Thymus/Yi/kallisto/Aire_WT-1 from
+[2023-11-14 00:41:37,210]    INFO [count]         /mnt/iacchus/joe/raw_data/Thymus/Yi/Yi_RNA_fastqs/WT_KO_fastqs/Aire_WT/B6_Aire_WT_S22_L001_R1_001.fastq.gz
+[2023-11-14 00:41:37,210]    INFO [count]         /mnt/iacchus/joe/raw_data/Thymus/Yi/Yi_RNA_fastqs/WT_KO_fastqs/Aire_WT/B6_Aire_WT_S22_L001_R2_001.fastq.gz
+[2023-11-14 00:41:37,210]    INFO [count]         /mnt/iacchus/joe/raw_data/Thymus/Yi/Yi_RNA_fastqs/WT_KO_fastqs/Aire_WT/B6_Aire_WT_S22_L002_R1_001.fastq.gz
+[2023-11-14 00:41:37,210]    INFO [count]         /mnt/iacchus/joe/raw_data/Thymus/Yi/Yi_RNA_fastqs/WT_KO_fastqs/Aire_WT/B6_Aire_WT_S22_L002_R2_001.fastq.gz
+[2023-11-14 00:41:37,210]    INFO [count]         /mnt/iacchus/joe/raw_data/Thymus/Yi/Yi_RNA_fastqs/WT_KO_fastqs/Aire_WT/B6_Aire_WT_S22_L003_R1_001.fastq.gz
+[2023-11-14 00:41:37,210]    INFO [count]         /mnt/iacchus/joe/raw_data/Thymus/Yi/Yi_RNA_fastqs/WT_KO_fastqs/Aire_WT/B6_Aire_WT_S22_L003_R2_001.fastq.gz
+[2023-11-14 00:41:37,210]    INFO [count]         /mnt/iacchus/joe/raw_data/Thymus/Yi/Yi_RNA_fastqs/WT_KO_fastqs/Aire_WT/B6_Aire_WT_S22_L004_R1_001.fastq.gz
+[2023-11-14 00:41:37,210]    INFO [count]         /mnt/iacchus/joe/raw_data/Thymus/Yi/Yi_RNA_fastqs/WT_KO_fastqs/Aire_WT/B6_Aire_WT_S22_L004_R2_001.fastq.gz
+[2023-11-14 01:41:33,748]    INFO [count] Sorting BUS file /mnt/iacchus/joe/raw_data/Thymus/Yi/kallisto/Aire_WT-1/output.bus to /mnt/iacchus/joe/raw_data/Thymus/Yi/kallisto/Aire_WT-1/tmp/output.s.bus
+[2023-11-14 01:44:30,744]    INFO [count] Whitelist not provided
+[2023-11-14 01:44:30,744]    INFO [count] Copying pre-packaged 10XV3 whitelist to /mnt/iacchus/joe/raw_data/Thymus/Yi/kallisto/Aire_WT-1
+[2023-11-14 01:44:31,131]    INFO [count] Inspecting BUS file /mnt/iacchus/joe/raw_data/Thymus/Yi/kallisto/Aire_WT-1/tmp/output.s.bus
+[2023-11-14 01:44:50,662]    INFO [count] Correcting BUS records in /mnt/iacchus/joe/raw_data/Thymus/Yi/kallisto/Aire_WT-1/tmp/output.s.bus to /mnt/iacchus/joe/raw_data/Thymus/Yi/kallisto/Aire_WT-1/tmp/output.s.c.bus with whitelist /mnt/iacchus/joe/raw_data/Thymus/Yi/kallisto/Aire_WT-1/10x_version3_whitelist.txt
+[2023-11-14 01:46:58,102]    INFO [count] Sorting BUS file /mnt/iacchus/joe/raw_data/Thymus/Yi/kallisto/Aire_WT-1/tmp/output.s.c.bus to /mnt/iacchus/joe/raw_data/Thymus/Yi/kallisto/Aire_WT-1/output.unfiltered.bus
+[2023-11-14 01:49:16,650]    INFO [count] Generating count matrix /mnt/iacchus/joe/raw_data/Thymus/Yi/kallisto/Aire_WT-1/counts_unfiltered/cells_x_genes from BUS file /mnt/iacchus/joe/raw_data/Thymus/Yi/kallisto/Aire_WT-1/output.unfiltered.bus
+[2023-11-14 01:50:09,923]    INFO [count] Reading matrix /mnt/iacchus/joe/raw_data/Thymus/Yi/kallisto/Aire_WT-1/counts_unfiltered/cells_x_genes.mtx
+[2023-11-14 01:50:42,344]    INFO [count] Writing matrix to h5ad /mnt/iacchus/joe/raw_data/Thymus/Yi/kallisto/Aire_WT-1/counts_unfiltered/adata.h5ad
