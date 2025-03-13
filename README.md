@@ -18,4 +18,3 @@ Analysis of scRNA-seq data from WT, Fezf2 cKO and Aire KO mouse thymi (GSE226493
 Published datasets used for this project include Fezf2 microarray DE genes (https://doi.org/10.1016/j.cell.2015.10.013) and Fezf2 ChIP-seq (https://doi.org/10.3389/fimmu.2023.1277365)
 
 Citation will be added after publication.
-# fezf2-thymus
